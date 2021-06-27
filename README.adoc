@@ -1,0 +1,12 @@
+= everytwo
+Terminal color schemes (kind of) based on something I like.
+
+== Screen shots
+
+image::https://cdn.imgchest.com/files/j7mmcgxpq76.png[palette]
+
+image::https://cdn.imgchest.com/files/k739c5rvo7q.png[screenshot]
+
+== Expression of Gratitude
+Somebody
+
